@@ -1,15 +1,13 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/cabinet.jpg
+title: Home Networking and Data Storage
+permalink: projects/HomeNetworking
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Networking
+summary: I set up new networking equipment and a network attatched storage for my house.
 ---
 
 <div class="ui small rounded images">

@@ -10,7 +10,7 @@ labels:
 summary: A Minesweeper remake that uses data structures to function
 ---
 
-<img class="ui medium right floated rounded image" src="../images/MinesweeperInGame.PNG">
+<img class="ui large floated rounded image" src="../images/MinesweeperInGame.PNG">
 
 <H2>Summary</H2>
 This project is a game that I made in my Introduction to Computer Science II (ICS 211) class. The objective of this project was to implement data structures and other concepts that were learned in the class into a larger project. I worked in a group of four (Kain, Brandon, Tyler, myself) to complete this project. 

@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/MineSweeper.png
-title: Vacay
+title: Minesweeper
 permalink: projects/MineSweeper
 date: 2016
 labels:
@@ -10,7 +10,7 @@ labels:
 summary: A Minesweeper remake that uses data structures to function
 ---
 
-<img class="ui medium centered floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium centered floated rounded image" src="../images/MinesweeperInGame.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 

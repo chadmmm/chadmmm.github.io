@@ -29,6 +29,10 @@ I calculated that for the price that I had to pay to rent the modem, I could pur
 My old Netgear wifi router was starting to show signs of it's age so I replaced it with a Ubiquiti Edgerouter Lite. I chose this router because it offered many advanced features along with performance for a reasonable price. This router offers a command line interface that allows access to many more features than the graphical user interface. The software running on the router is based off of the Vyatta routing software, which is a special Debian-based Linux distribution. 
 <img class="ui large rounded image" src="../images/erlite.jpg">
 
+<H2>Switching</H2>
+<img class="ui large rounded image" src="../images/switching.jpg">
+For switching, I chose a simple Negear GS108-400NAS unmanaged switch. The reason that I chose an unamanged switch versus a managed switch was because I did not really need a lot of fancy switching features like quality of service (QoS). I selected this specific switch because of it had eight ports, which would fit my needs and it also came with lifetime warranty.
+<img class="ui large rounded image" src="../images/GS108-400NAS.jpg">
 
 
 

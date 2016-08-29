@@ -57,7 +57,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu"
+        "Ubuntu",
+        "Windows"
       ]
     }
   ],
@@ -69,7 +70,8 @@
       "startDate": "2015-08-24",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": ["Introduction to Computer Science I", "Introduction to Computer Science II",
+        "Discrete Mathematics for Computer Science I", "Discrete Mathematics for Computer Science II"
       ]
     }
   ],

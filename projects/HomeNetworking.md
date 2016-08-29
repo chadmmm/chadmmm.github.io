@@ -17,7 +17,7 @@ This project was one of my summer projects that I worked on and it is still a wo
 
 <H2>Cable Modem</H2>
 Previously, I rented a cable/router combo from my internet service provider, which was an Arris DG1670A pictured below.
-<img class="ui large rounded image" src="../images/DG1670A.jpg">
+<img class="ui large rounded image" src="../images/DG1670a.jpg">
 I calculated that for the price that I had to pay to rent the modem, I could purchase my own modem and it would pay for itself in roughly a year. I decided to purchase an Arris SURFboard SB1683 cable modem.
 <img class="ui large rounded image" src="../images/SB1683.jpg">
 

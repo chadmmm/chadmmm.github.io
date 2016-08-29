@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://chadmorita.github.io/chadmorita.github.io/images/chad.jpg",
     "email": "chadmmm@hawaii.edu",
-    "phone": "808-772-8379",
+    "phone": "",
     "website": "https://chadmorita.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
@@ -24,16 +24,6 @@
         "network": "linkedin",
         "username": "chadmorita",
         "url": "http://linkedin.com/in/chadmorita"
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
       }
     ]
   },
@@ -52,11 +42,6 @@
     },
     {
       "name": "Software Engineering",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Human Computer Interaction",
       "keywords": [
       ]
     }
@@ -87,32 +72,6 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
       ]
     }
   ],

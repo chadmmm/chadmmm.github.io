@@ -39,19 +39,19 @@
   },
   "interests": [
     {
-      "name": "",
+      "name": "Networking",
       "keywords": [
         "",
         ""
       ]
     },
     {
-      "name": "",
+      "name": "Computer Security",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Software Engineering",
       "keywords": [
       ]
     }
@@ -61,12 +61,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
@@ -74,10 +69,7 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Ubuntu"
       ]
     }
   ],

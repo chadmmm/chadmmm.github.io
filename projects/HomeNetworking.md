@@ -41,3 +41,6 @@ I chose the Ubiquiti UAP-AC-LITE as my wireless access point. Something that my 
 <H2>Ethernet Wiring</H2>
 <img class="ui large rounded image" src="../images/wallplate.jpg">
 For each room in my house with a device that requires an Internet connection, I ran two Cat6 ethernet cables. I ran the cable through 1-1/2 inch schedule 40 PVC conduit. In each room, I terminated the ethernet wires with wall jacks. At the other end of the wire, by the switch, I terminated the cables with RJ-45 connectors. Looking back at this, a patch panel would have been a better solution. The wall jack in some rooms also includes a coaxial connector for cable television. Previously, the cable ran into the house through a hole in the wall. The organization of wires in my network cabinet will be completed soon. 
+
+<H2>Data Storage</H2>
+The data storage section of my network cabinet is made up of a Western Digital EX4100 network attatched storage (NAS) and a 6 terabyte (TB) desktop hard drive. The NAS is responbile for centralizing all of my important data. There are four 3TB Western Digital Red drives in the NAS setup in RAID (redundant array of independent disks) 10. You can find more information about RAID <a href="http://www.raid-calculator.com/raid-types-reference.aspx">here</a>.

@@ -18,6 +18,8 @@ summary: This is my first programming project.
   <img class="ui image" src="../images/GrassBlock.png">
 </div>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qTAJljvxtys" frameborder="0" allowfullscreen></iframe>
+
 <H2>Summary</H2>
 The Minecraft Sticker Book is the first programming project that I worked on. This project was an assignment in my Introduction to Computer Science I (ICS 111) class. The assignment was to make a sticker book of our choice where the user could place and remove stickers on the canvas. I chose the Minecraft theme because it was a game that I played a lot while I was in middle school. 
 

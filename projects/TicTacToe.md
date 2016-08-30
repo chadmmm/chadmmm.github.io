@@ -12,7 +12,7 @@ labels:
 summary: A game of Tic Tac Toe with a simple computer player feature.
 ---
 
-<img class="ui large rounded image" src="../images/Chalkboard.png">
+<img class="ui large rounded image" src="../images/chalkboard.png">
 
 <H2>Summary</H2>
 This Tic Tac Toe game was my final project for my Introduction to Computer Science I class. This project holds significance to me, because at the beginning of the semester, I had no programming experience and by the end of the semester, I was able to create a project with a group of my own choice. The project only required that we used the different skills that we learned in the class. Because the requirements were so open, I felt that this project was more of a project instead of an assignment. My group of 3 people was able to finish the project with a lot of time to spare, but all of us wanted to keep on working on it until the deadline to improve more on it.

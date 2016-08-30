@@ -2,7 +2,7 @@
 published: false
 layout: project
 type: project
-image: images/Chalkboard.png
+image: images/chalkboard.png
 title: Tic Tac Toe
 permalink: projects/TicTacToe
 date: 2016

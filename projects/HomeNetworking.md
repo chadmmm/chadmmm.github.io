@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cabinet.jpg
+image: images/SquareCabinet.jpg
 title: Home Networking and Data Storage
 permalink: projects/HomeNetworking
 date: 2015

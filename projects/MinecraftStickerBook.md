@@ -8,7 +8,7 @@ date: 2015
 labels:
   - Java
   - EZ Graphics
-summary: This is my first programming project.
+summary: Minecraft Sticker Book is the first programming project that I worked on. This is a simple program that lets users choose and place stickers onto a canvas.
 ---
 
 <div class="ui small rounded images">

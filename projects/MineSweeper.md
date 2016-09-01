@@ -7,7 +7,7 @@ permalink: projects/MineSweeper
 date: 2016
 labels:
   - Java
-summary: A Minesweeper remake that uses data structures to function
+summary: A Minesweeper remake that makes use of various data structures.
 ---
 
 <img class="ui large rounded image" src="../images/MinesweeperInGame.PNG">

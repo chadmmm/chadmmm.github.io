@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/BackgroundImage.png
+image: images/MinecraftStickerBook.jpg
 title: Minecraft Sticker Book
 permalink: projects/MinecraftStickerBook
 date: 2015

@@ -10,7 +10,7 @@ labels:
   - Athletic Software Engineering
 ---
 
-<H1> My First Introduction to JavaScript and First Thoughts</H2>
+<H1> My First Introduction to JavaScript and First Thoughts</H1>
 It has been roughly a week since I was first introduced to JavaScript. JavaScript is the only programming language that I have learned other than Java. So far, my experience with learning JavaScript has been quite good. Because JavaScript is so similar to Java, I did not have much of a problem picking up the syntax. I like the simplicity of JavaScript like how specific variable types do not need to be defined. This simplicity makes things easier when I am writing small bits of code, but I can see myself possibly running into problems in the future with larger code. Because there are not a lot of strict rules like Java, it’s a lot easier to focus on the algorithm or idea behind a program instead of the code being cluttered with things that just need to be there. 
 
 <H1>Where I Learned JavaScript</H1>

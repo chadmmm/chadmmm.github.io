@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/MineSweeper.png
+image: images/MineSweeper.jpg
 title: Minesweeper
 permalink: projects/MineSweeper
 date: 2016

@@ -20,5 +20,4 @@ I learned JavaScript through the freeCodeCamp online course. This approach was d
 
 <H2>Athletic Software Engineering</H2>
 <img class="ui tiny right spaced image" src="../images/stopwatch.png">
-
 In the software engineering class that I’m currently in, we are using an athletic software engineering approach. Athletic software engineering uses workouts of the day (WODs), which consists of a small problem that needs to be solved by creating a function within a certain amount of time. I have only completed four WODs so far with only one graded, but I am liking the idea of them. The WOD is a great opportunity for people learning software engineering to become quicker at solving problems. The WOD encourages me to spend more time analyzing and planning out my program before I actually begin typing. With each WOD that I complete, I feel like I am getting quicker. Because the WOD is a timed exercise, I find it to be a little stressful because I need to work against the clock, but I think that the stress is good, because a time is often the limitation to any kind of project. 

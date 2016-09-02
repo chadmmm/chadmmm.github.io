@@ -16,7 +16,7 @@ It has been a week since I was first introduced to JavaScript. JavaScript is the
 <H2>Where I Learned JavaScript</H2>
 <img class="ui big rounded image" src="../images/freeCodeCamp.png">
 
-I learned JavaScript through the <a href="https://www.freecodecamp.com/" target="_blank"> freeCodeCamp </a> online course. This approach was different from when I learned Java, because I learned the basics of Java over the course of a semester in a college class. The freeCodeCamp course seemed like it was pretty straight forward and easy to understand. There were times during the online course where I felt like talking things over with a fellow classmate. The freeCodeCamp course was definitely more individual focused. 
+I learned JavaScript through the <a href="https://www.freecodecamp.com/" target="_blank"> freeCodeCamp </a> online course. This approach was different from when I learned Java, because I learned the basics of Java over the course of a semester in a college class. The freeCodeCamp course seemed like it was pretty straight forward and easy to understand, but here were times during the online course where I felt like talking things over with a fellow classmate. The freeCodeCamp course was definitely more individual focused. 
 
 <H2>Athletic Software Engineering</H2>
 <img class="ui tiny rounded image" src="../images/stopwatch.png">

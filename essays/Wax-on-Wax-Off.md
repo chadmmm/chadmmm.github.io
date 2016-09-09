@@ -50,3 +50,6 @@ In this case, the amount of effort put into forming this question, resulted in a
 <img class="ui big rounded image" src="../images/smartQuestionAnswer2.png">
 <img class="ui big rounded image" src="../images/smartQuestionAnswer3.png">
 
+<H2>Conclusion</H2>
+
+As demonstrated above, a smart question can help more than just the person asking it. The process of forming a "smart" question may seem like a tedious task like applying wax to a car, but in the end, there is always a lesson to be learned.

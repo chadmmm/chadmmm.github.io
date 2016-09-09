@@ -31,5 +31,6 @@ The  <a href="http://cs.stackexchange.com/questions/52138/sort-complexity-in-a-r
 At the end of the question, Maxim asks if there is a difference between float values and integers and also mentions linked lists. There were no hints given in the subject line or tags that would imply that the question was also about linked lists and float values. By mentioning linked lists, the question strays off from being about sorting in arrays.
 
 <H3>Comments</H3>
+
+The comments also reflect the effort put into this question. The first comment is by the user D.W., a moderator of the forum asking about what research has been done. The question does not give any information about previous research attempts made. D.W. also links to a <a href="http://cs.stackexchange.com/help/how-to-ask" target="_blank"> guide</a> on asking good questions.
 <img class="ui big rounded image" src="../images/notSmartQuestionComment1.png">
-The comments also reflect the effort put into this question. The first comment is by the user D.W., a moderator of the forum asking about what research has been done. The question does not give any information about previous research attempts made. D.W. also links to a guide on asking good questions.

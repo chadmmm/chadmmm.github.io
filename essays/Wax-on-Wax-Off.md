@@ -18,4 +18,6 @@ There are some people that get into software engineering because they hear that 
 
 <H2>Learning by questioning</H2>
 
+Questions can be a valuable resource for learning. A well formulated question or a "smart" question can benefit both the questioner and any other person that views the discussion that was provoked by the question. One of the first steps to formualating a "smart" question is to do research to make sure that the question has not already been answered. Most questions don't even need to be asked, because there is a lot of information out there. If the answer to the question cannot be found, then the question could be well formulated so that it will encourage a good response. Simply asking a question that has little effort put into it will often times lead to a low effort answer. More information about forming a good question can be found in Eric Raymond's essay, [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html).
+
 

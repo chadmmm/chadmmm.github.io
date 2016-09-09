@@ -30,7 +30,17 @@ The  <a href="http://cs.stackexchange.com/questions/52138/sort-complexity-in-a-r
 <img class="ui big rounded image" src="../images/notSmartQuestionComment2.png">
 At the end of the question, Maxim asks if there is a difference between float values and integers and also mentions linked lists. There were no hints given in the subject line or tags that would imply that the question was also about linked lists and float values. By mentioning linked lists, the question strays off from being about sorting in arrays.
 
-<H3>Comments</H3>
+<H3>Replies</H3>
 
-The comments also reflect the effort put into this question. The first comment is by the user D.W., a moderator of the forum asking about what research has been done. The question does not give any information about previous research attempts made. D.W. also links to a <a href="http://cs.stackexchange.com/help/how-to-ask" target="_blank"> guide</a> on asking good questions.
+The replies also reflect the effort put into this question. The first reply is by the user D.W., a moderator of the forum asking about what research has been done. The question does not give any information about previous research attempts made. D.W. also links to a <a href="http://cs.stackexchange.com/help/how-to-ask" target="_blank"> guide</a> on asking good questions.
 <img class="ui big rounded image" src="../images/notSmartQuestionComment1.png">
+
+Maxim then decides to reply to the other replies to clarify. What Maxim says changes the question alltogether from what it origninally was. The subject line does not even seem relevant at this point.
+<img class="ui big rounded image" src="../images/notSmartQuestionComment3.png">
+
+
+<H2>An example of a "smart" question</H2>
+
+<H3>Question</H3>
+<img class="ui big rounded image" src="../images/smartQuestion.png">
+Starting off with the subject line of the <a href="http://cs.stackexchange.com/questions/3/why-is-quicksort-better-than-other-sorting-algorithms-in-practice" target="_blank"> question</a> posted by the user Janoma, there are already signs that more effort was put into forming this question. 

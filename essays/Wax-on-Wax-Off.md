@@ -43,4 +43,10 @@ Maxim then decides to reply to the other replies to clarify. What Maxim says cha
 
 <H3>Question</H3>
 <img class="ui big rounded image" src="../images/smartQuestion.png">
-Starting off with the subject line of the <a href="http://cs.stackexchange.com/questions/3/why-is-quicksort-better-than-other-sorting-algorithms-in-practice" target="_blank"> question</a> posted by the user Janoma, there are already signs that more effort was put into forming this question. 
+Starting off with the subject line of the <a href="http://cs.stackexchange.com/questions/3/why-is-quicksort-better-than-other-sorting-algorithms-in-practice" target="_blank"> question</a> posted by the user Janoma, there are already signs that more effort was put into forming this question. The subject line is more specific by naming what sort is being discussed. Janoma starts their question with stating what they know and then goes on to state what they found along with a link. The question is then stated along with an explanation. This question has much better formatting with boldfaced words, links, and paragraps that all add to the chances of this question being thoroughly answered. Another nice touch is the updates so other users can quickly see what points were clarified. 
+
+In this case, the amount of effort put into forming this question, resulted in a thorough answer. Janoma probably read the answer and learned a lot from it, but what is even more important is that this discussion will remain on the site for anyone who may have a similar question in the future. This "smart" question has created a great resource as a byproduct.
+<img class="ui big rounded image" src="../images/smartQuestionAnswer1.png">
+<img class="ui big rounded image" src="../images/smartQuestionAnswer2.png">
+<img class="ui big rounded image" src="../images/smartQuestionAnswer3.png">
+

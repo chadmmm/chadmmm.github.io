@@ -25,6 +25,6 @@ The group quickly ran into many problems because almost all of the functions rel
 
 <H2>GitHub</H2>
 
-<img class="ui big rounded image" src="../images/git-comib-fusionbox.jpg">
+<img class="ui big rounded image" src="../images/git-comic-fusionbox.jpg">
 
 Because working on a team to create software is beneficial, but difficult at the same time, tools for configuration management like GitHub exist. Because GitHub makes it relatively easy to use Git, it is one of the most widely used configuration management tools today. When I first found out about Git, I was a little intimidated because of the heavy use of the command line. With GitHub, it allowed me to become familiar with the idea of how it worked first, and then I can learn how to use the command line with a basic understanding. I honestly wish that I had put aside some time earlier to learn how to use GitHub so that I could have saved a large amount of time on group projects.

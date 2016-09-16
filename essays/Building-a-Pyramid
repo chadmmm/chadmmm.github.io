@@ -1,0 +1,18 @@
+---
+published: false
+layout: essay
+type: essay
+title: Building a Pyramid
+date: 2016-09-15
+labels:
+  - Software Engineering
+  - GitHub
+  - Configuration Management
+---
+
+<H2>Configuration Management and Pyramids</H2>
+
+The Egyptian pyramids are looked at as one of the greatest accomplishments of mankind. The Great Pyramid was the largest man-made structure until the Eiffel Tower was built about four thousand years later. Large-scale software projects can be compared to a pyramid. It would be insane to say that a single person was able to write all of the code required to operate the Google search engine that exists today. With each large scale projet, there needs to be some kind of organization otherwise the project will turn to chaos. This is where configuration management comes in. 
+
+<H2>Past experiences with group projects</H2>
+

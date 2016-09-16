@@ -17,7 +17,7 @@ The Egyptian pyramids are looked at as one of the greatest accomplishments of ma
 
 <H2>Past experiences with group projects</H2>
 
-<img class="ui big rounded image" src="../images/gitXKCD.png">
+<img class="ui medium rounded image" src="../images/gitXKCD.png">
 
 In the past, I have had to work on group projects where all of the group members had to share the source code through a series of emails with attachments. One of these projects was the <a href="https://chadmorita.github.io/projects/MineSweeper" target="_blank"> Minesweeper </a>game that can be found on my Projects page. At the time, none of my group members knew how to use Git including me, so we decided to divide up the work by assigning specific functions to work on to each group member. 
 

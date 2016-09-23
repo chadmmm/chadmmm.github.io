@@ -18,7 +18,7 @@ A programming language is essentially a langauge that is used to communicate ins
 
 <H2>My experiences with ESLint and IntelliJ</H2>
 
-This past week, I began using ESLint along with IntelliJ for all of my programming. ESLint is a linting tool for JavaScript and ItelliJ is an IDE that supports JavaSript. My overall impression is that having a tool to check my syntax is extremely useful. Before I used ESLint and IntelliJ, I was using an online code editor called JSFiddle. A problem that I often ran into with JSFiddle was that I would get errors, but I did not know exactly what line of code contained the error. JSFiddle is great for small programming activities, but once the size of code grows, an IDE becomes more important. 
+This past week, I began using [ESLint](http://eslint.org/docs/about/) along with [IntelliJ](https://www.jetbrains.com/idea/) for all of my programming. ESLint is a linting tool for JavaScript and ItelliJ is an IDE that supports JavaSript. My overall impression is that having a tool to check my syntax is extremely useful. Before I used ESLint and IntelliJ, I was using an online code editor called JSFiddle. A problem that I often ran into with JSFiddle was that I would get errors, but I did not know exactly what line of code contained the error. JSFiddle is great for small programming activities, but once the size of code grows, an IDE becomes more important. 
 
 <H2>Coding like a newbie</H2>
 

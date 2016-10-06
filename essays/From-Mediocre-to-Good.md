@@ -15,4 +15,4 @@ Over the past two weeks, I went from learning the basics of HTML and CSS to lear
 
 <h2>One of My First Websites</h2>
 
-<img class="ui big rounded image" src="../images/Essays/From-Mediocre-to-Good/owed-to-chad1.png">
+<img class="ui large rounded image" src="../images/Essays/From-Mediocre-to-Good/owed-to-chad1.png">

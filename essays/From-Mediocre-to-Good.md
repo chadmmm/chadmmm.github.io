@@ -19,7 +19,7 @@ Over the past two weeks, I went from learning the basics of HTML and CSS to lear
 <a href="../images/Essays/From-Mediocre-to-Good/owed-to-chad1.png"><img class="ui huge rounded image" src="../images/Essays/From-Mediocre-to-Good/owed-to-chad1.png"></a>
 
 Above is a picture of one of my first websites. I quickly set it up so I could keep track of how much my friends owed me. This is the first version from when I was only using HTML and CSS. Just looking at the site now makes my eyes hurt. I read an article by Erik Kennedy
-titled <a href="https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.tiandma7i">7 Rules for Creating Gorgeous UI</a>, which helped me a lot to create a better looking website. 
+titled <a href="https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.tiandma7i" target="_blank">7 Rules for Creating Gorgeous UI</a>, which helped me a lot to create a better looking website. 
 
 <h3>After Semantic UI</h3>
 
@@ -41,4 +41,4 @@ This was my most recent attempt at recreating a website. This time I attempted t
 
 <h3>From Good to Great</h3>
 
-It was sort of a steep learning curve to learn how to use Semantic UI. The most time consuming part about making a website with Semantic UI is learning what classes to use to get the desired results. I am confident that over time, I will be able to develop an intuition on what classes to use. Learning how to use a UI framework can be similar to learning a programming language. Learning what data structures or functions are available to you is what contributes most to the learning curve when learning a new programming language. Once I was able to become comfortable with using the classes in Semantic UI, I was able to build websites even faster. Now that my websites look good, the next step will be to make them look great and that can be an even larger challenge. 
+There was a steep learning curve to learn how to use Semantic UI. The most time consuming part about making a website with Semantic UI is learning what classes to use to get the desired results. I am confident that over time, I will be able to develop an intuition on what classes to use. Learning how to use a UI framework can be similar to learning a programming language. Learning what data structures or functions are available to you is what contributes most to the learning curve when learning a new programming language. Once I was able to become comfortable with using the classes in Semantic UI, I was able to build websites even faster. Now that my websites look good, the next step will be to make them look great and that can be an even larger challenge. 

@@ -16,8 +16,9 @@ Here's a way to reassign default settings for IntelliJ so it will work with our 
 Start up IntelliJ. At the bottom of the startup window, go to `Configure > Project Defaults > Settings`. If you're on Windows, there should be an option under `File>Other Settings>Default` Settings. 
 
 <img class="ui huge floated image" href="../images/Tutorials/IntelliJ-Defaults/config1.png">
+<a href="../images/Essays/From-Mediocre-to-Good/owed-to-chad1.png"><img class="ui huge rounded image" src="../images/Essays/From-Mediocre-to-Good/owed-to-chad1.png"></a>
 
-After this step you can just follow the steps outlined in the (JavaScript Coding Standards)[http://courses.ics.hawaii.edu/ics314f16/morea/coding-standards/reading-javascript-coding-standards.html] page.
+After this step you can just follow the steps outlined in the [JavaScript Coding Standards](http://courses.ics.hawaii.edu/ics314f16/morea/coding-standards/reading-javascript-coding-standards.html) page.
 
 <h3>2. Import and add the ics-se-code-style Code Style Scheme</h3>
 Go to `Editor > Code Style > JavaScript`. Import the <a href="http://courses.ics.hawaii.edu/ics314f16/morea/development-environments/ics-se-code-style.xml" target="#"> ics-se-code-style.xml</a> into IntelliJ and select it.

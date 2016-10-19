@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: IntelliJ Defaults
 date: 2016-10-18
+published: false
 labels:
 ---
 

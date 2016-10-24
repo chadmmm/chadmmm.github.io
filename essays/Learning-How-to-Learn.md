@@ -47,7 +47,7 @@ At this point I had already spent somewhere around four and a half hours learnin
 
 <h3>Digits</h3>
 
-<a href="../images/Essays/Learning-How-to-Learn/meteor-in-50-minutes.png"><img class="ui large rounded image" src="../images/Essays/Learning-How-to-Learn/meteor-in-50-minutes.png"></a>
+<a href="../images/Essays/Learning-How-to-Learn/digits.png"><img class="ui large rounded image" src="../images/Essays/Learning-How-to-Learn/digits.png"></a>
 
 During week two learning Meteor, I worked on several small activities that would ultimately create a web page for contact information. Each activity added a new feature to the page like editing, copying, and deleting contacts. In this activity, I learned a lot more about the process of going from an idea for a feature to implementing the feature.
 

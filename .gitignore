@@ -4,3 +4,10 @@
 template.iml
 _site/
 .sass-cache/
+.DS_Store
+
+images/Tutorials/.DS_Store
+
+images/Essays/.DS_Store
+
+images/.DS_Store

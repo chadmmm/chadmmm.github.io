@@ -49,7 +49,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "Java"
+        "Java",
+        "JavaScript",
+        "Semantic UI",
+        "Meteor.js",
+        "HTML/CSS",
+        "MongoDB"
       ]
     },
     {
@@ -58,7 +63,11 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Windows"
+        "Windows",
+        "Git/Github",
+        "LaTeX",
+        "Eclipse",
+        "IntelliJ"
       ]
     }
   ],
@@ -70,8 +79,12 @@
       "startDate": "2015-08-24",
       "endDate": "Present",
       "gpa": "",
-      "courses": ["Introduction to Computer Science I", "Introduction to Computer Science II",
-        "Discrete Mathematics for Computer Science I", "Discrete Mathematics for Computer Science II"
+      "courses": ["Introduction to Computer Science I",
+        "Introduction to Computer Science II",
+        "Discrete Mathematics for Computer Science I",
+        "Discrete Mathematics for Computer Science II",
+        "Software Engineering I",
+        "Algorithms"
       ]
     }
   ],
@@ -95,6 +108,23 @@
     {
       "name": "Available upon request",
       "reference": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "University of Hawaii Photo Lab",
+      "position": "Junior Photo Lab Assistant",
+      "startDate": "2016-08",
+      "endDate": "Present",
+      "summary": "Assist photography students woring in the lab",
+    }
+  ],
+  "awards": [
+    {
+      "title": "Manoa Dean's List",
+      "date": "Fall 2015, Spring 2016",
+      "awarder": "UH Manoa College of Natural Sciences",
+      "summary": "Awarded to students that achieve a semester GPA of 3.5 or higher based on 12 credits or more taken for a grade"
     }
   ]
 }

@@ -26,7 +26,7 @@ Questions can be a valuable resource for learning. A well formulated question or
 
 <img class="ui big rounded image" src="../images/notSmartQuestion.png">
 
-The  <a href="http://cs.stackexchange.com/questions/52138/sort-complexity-in-a-random-array" target="_blank"> question</a> above is from a post made by the user Maxim on Stack Exchange. This is an example of a "not smart" question for many reasons. Starting with the subject line, Maxim chose a rather vague subject. The subject does not do much to give the forum user an idea of what the question is going to be about. The question scenario also seems like it could be an assigned homework problem. Maxim is asking which sorting algorithm will be the best, but does not state what kind of complexity (time, space). A comment mentions this vagueness on what "best" means. 
+The  <a href="http://cs.stackexchange.com/questions/52138/sort-complexity-in-a-random-array" target="_blank"> question</a> above is from a post made by the user Maxim on Stack Exchange. This is an example of a "not smart" question for many reasons. Starting with the subject line, Maxim chose a rather vague subject. The subject does not do much to give the forum user an idea of what the question is going to be about. The question scenario also seems like it could be an assigned homework problem. Maxim is asking which sorting algorithm will be the best, but does not state what kind of complexity (time, space). A comment mentions this vagueness on what "best" means.
 <img class="ui big rounded image" src="../images/notSmartQuestionComment2.png">
 At the end of the question, Maxim asks if there is a difference between float values and integers and also mentions linked lists. There were no hints given in the subject line or tags that would imply that the question was also about linked lists and float values. By mentioning linked lists, the question strays off from being about sorting in arrays.
 
@@ -43,12 +43,12 @@ Maxim then decides to reply to the other replies to clarify. What Maxim says cha
 
 <H3>Question</H3>
 <img class="ui big rounded image" src="../images/smartQuestion.png">
-Starting off with the subject line of the <a href="http://cs.stackexchange.com/questions/3/why-is-quicksort-better-than-other-sorting-algorithms-in-practice" target="_blank"> question</a> posted by the user Janoma, there are already signs that more effort was put into forming this question. The subject line is more specific by naming what sort is being discussed. Janoma starts their question with stating what they know and then goes on to state what they found along with a link. The question is then stated along with an explanation. This question has much better formatting with boldfaced words, links, and paragraphs that all add to the chances of this question being thoroughly answered. Another nice touch is the updates so other users can quickly see what points were clarified. 
+Starting off with the subject line of the <a href="http://cs.stackexchange.com/questions/3/why-is-quicksort-better-than-other-sorting-algorithms-in-practice" target="_blank"> question</a> posted by the user Janoma, there are already signs that more effort was put into forming this question. The subject line is more specific by naming what sort is being discussed. Janoma starts their question with stating what they know and then goes on to state what they found along with a link. The question is then stated along with an explanation. This question has much better formatting with boldfaced words, links, and paragraphs that all add to the chances of this question being thoroughly answered. Another nice touch is the updates so other users can quickly see what points were clarified.
 
 In this case, the amount of effort put into forming this question, resulted in a thorough answer. Janoma probably read the answer and learned a lot from it, but what is even more important is that this discussion will remain on the site for anyone who may have a similar question in the future. This "smart" question has created a great resource as a byproduct.
-<img class="ui big rounded image" src="../images/smartQuestionAnswer1.png">
-<img class="ui big rounded image" src="../images/smartQuestionAnswer2.png">
-<img class="ui big rounded image" src="../images/smartQuestionAnswer3.png">
+<img class="ui big image" src="../images/smartQuestionAnswer1.png">
+<img class="ui big image" src="../images/smartQuestionAnswer2.png">
+<img class="ui big image" src="../images/smartQuestionAnswer3.png">
 
 <H2>Conclusion</H2>
 

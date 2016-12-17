@@ -7,7 +7,16 @@
 
 // Customize the background color
 body {
-  // background-color: #f2f2f2;;
+  // background-color: #66B9BF;
+  // background-color: #2B303B;
+  background-color: #303340;
+  color: white;
+}
+h2 {
+  color: white !important;
+}
+h3 {
+  color: white !important;
 }
 
 // Customize the menubar color
@@ -17,6 +26,15 @@ body {
 
 // Customize the home page icon colors
 .icon-color {
-  // color: silver;
+  // custom-1 theme
+  // color: #E37222;
 }
 
+.ui.fluid.centered.card.card-layout {
+  // custom-1 theme
+  // background-color: #1678C2;
+}
+
+a {
+  color: #6494ED;
+}

@@ -113,10 +113,28 @@
   "volunteer": [
     {
       "organization": "University of Hawaii Photo Lab",
+      "website": "http://hawaii.edu/art/",
       "position": "Junior Photo Lab Assistant",
       "startDate": "2016-08",
       "endDate": "Present",
-      "summary": "Assist photography students woring in the lab",
+      "summary": "Assist photography students working in the lab",
+      "highlights": [
+        "Checkout darkroom equipment to students",
+        "Setup and break down darkroom labs"
+      ]
+    },
+    {
+      "organization": "GenCyber",
+      "website": "https://www.gen-cyber.com/",
+      "position": "Student volunteer",
+      "startDate": "2016-05-27",
+      "endDate": "2016-06-10",
+      "summary": "Assist students learning cybersecurity concepts in the classroom",
+      "highlights": [
+        "Answer student's questions about classroom activities",
+        "Supervise students during capture the flag event on the UH Manoa Campus",
+        "Design activities to teach cybcersecurity principles"
+      ]
     }
   ],
   "awards": [
@@ -125,6 +143,6 @@
       "date": "Fall 2015, Spring 2016",
       "awarder": "UH Manoa College of Natural Sciences",
       "summary": "Awarded to students that achieve a semester GPA of 3.5 or higher based on 12 credits or more taken for a grade"
-    }
+    },
   ]
 }

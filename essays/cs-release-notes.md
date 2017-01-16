@@ -19,6 +19,7 @@ The purpose of this essay is to keep track of the release notes for each new ver
 ## January 15, 2017
 ---
 The focus of this release is to improve the overall usability of the app.
+
 ### New Features and Fixes
   - **Require first and last name**: Displaying only UH usernames can make it difficult to identify other users. Requiring a first and last name will make it easier for users to get to know each other.
   - **Fix FullCalendar Bug**: There was a bug where clicking on a date in the calendar would not always trigger the modal to create a new study session. The solution to the problem was to update jQuery to the latest version.

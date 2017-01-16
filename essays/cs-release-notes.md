@@ -22,13 +22,7 @@ The focus of this release is to improve the overall usability of the app.
 ### New Features and Fixes
   - **Require first and last name**: Displaying only UH usernames can make it difficult to identify other users. Requiring a first and last name will make it easier for users to get to know each other.
   - **Fix FullCalendar Bug**: There was a bug where clicking on a date in the calendar would not always trigger the modal to create a new study session. The solution to the problem was to update jQuery to the latest version.
-  - **Prevent creating sessions in the past**: Previously, users were able to create study sessions in the past. The problem was solved by adding a check in the dayClick function to see if the date had already passed.
-
-    ```JavaScript
-      if(!moment(date.format()).isBefore(moment())) {
-        $('#calendar').modal({ blurring: true }).modal('show');
-      }
-    ```
+  - **Prevent creating sessions in the past**: Previously, users were able to create study sessions in the past.
 
 ### Challenges
   A feature that I was not able to successfully implement during this release was the feature to automatically remove study sessions that have already passed. I'm currently searching for a way to run functions on the server side instead of relying on a user's actions to prompt the cleaning.

@@ -25,9 +25,9 @@ The focus of this release is to improve the overall usability of the app.
   - **Prevent creating sessions in the past**: Previously, users were able to create study sessions in the past. The problem was solved by adding a check in the dayClick function to see if the date had already passed.
 
     ```javascript
-    if(!moment(date.format()).isBefore(moment())) {
-      $('#calendar').modal({ blurring: true }).modal('show');
-    }
+      if(!moment(date.format()).isBefore(moment())) {
+        $('#calendar').modal({ blurring: true }).modal('show');
+      }
     ```
 
 ### Challenges

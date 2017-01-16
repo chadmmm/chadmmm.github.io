@@ -24,7 +24,7 @@ The focus of this release is to improve the overall usability of the app.
   - **Fix FullCalendar Bug**: There was a bug where clicking on a date in the calendar would not always trigger the modal to create a new study session. The solution to the problem was to update jQuery to the latest version.
   - **Prevent creating sessions in the past**: Previously, users were able to create study sessions in the past. The problem was solved by adding a check in the dayClick function to see if the date had already passed.
 
-    ```js
+    ```JavaScript
       if(!moment(date.format()).isBefore(moment())) {
         $('#calendar').modal({ blurring: true }).modal('show');
       }

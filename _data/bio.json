@@ -140,9 +140,9 @@
   "awards": [
     {
       "title": "Manoa Dean's List",
-      "date": "Fall 2015, Spring 2016",
+      "date": "Fall 2015, Spring 2016, Fall 2016",
       "awarder": "UH Manoa College of Natural Sciences",
-      "summary": "Awarded to students that achieve a semester GPA of 3.5 or higher based on 12 credits or more taken for a grade"
+      "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade, and (2) do not receive grades of W, I, F, or NC for that semester."
     },
   ]
 }

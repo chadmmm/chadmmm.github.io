@@ -18,6 +18,7 @@ The purpose of this essay is to keep track of the release notes for each new ver
 
 ## February 1, 2017
 ---
+
 ### New Features and Fixes
   - **Convert Sessions table into cards**: Previously, a table was used to display all of the upcoming study sessions. Now, each session is represented by a clickable card that contains the title of the study session, course, and start/end times. Users can click on the card to get more detailed information about the study session.
   - **Group functionality**: The Groups feature is now functional. Groups can be created, users can be added/removed from groups, and group study sessions can now be created through invitations.

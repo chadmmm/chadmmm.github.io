@@ -20,6 +20,7 @@ The purpose of this essay is to keep track of the release notes for each new ver
 ---
 
 ### New Features and Fixes
+  This release was focused mostly on bug fixes and design improvements.
   - **Sort courses on my page**: Courses on a user's homepage now appear in alphanumeric order.
   - **Profile picture bug fixed**: Profile pictures are being generated from URLs again.
   - **Edit group bug fixed**: Group members are no longer deleted when modifying group information.

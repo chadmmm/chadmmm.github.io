@@ -29,7 +29,7 @@ The purpose of this essay is to keep track of the release notes for each new ver
   Time management was definitely a challenge. During this release period, I spent a large amount of time working on implementing sort options when searching for a study session. I had to first decide whether the study sessions should be sorted on the server or on the client side and then I was having trouble collecting the data in a way that would make it sortable. Unfortunately, I was not able to successfully implement the feature during this release. Since I spent a significant amount of time on the sorting, I decided to move on to work on other issues.
 
 ### Plans for next release (March 1, 2017)
-  Not many of the planned features and fixes were not able to be completed during this release period, so they have been moved to the next period.
+  Not many of the planned features and fixes were able to be completed during this release period, so they have been moved to the next period.
   - **User Bio improvements**: Allow users to include more information on their bios and add ability to edit bio.
   - **Notifications**: Receive notifications about upcoming sessions that you're signed up for, group invitations, etc.
   - **Search Improvements**: Implement sort options when searching for study sessions.

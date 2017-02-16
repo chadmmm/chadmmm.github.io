@@ -16,6 +16,15 @@ labels:
 
 The purpose of this essay is to keep track of the release notes for each new version of the CS (Collaborative Study) app that I am currently developing. With each release of the app, I will update this essay with the release notes that detail my contributions to the project. I started this project in my software engineering class (ICS 314) at the University of Hawaii at Manoa in the Fall of 2016 and I'm now continuing development on the app with my group. If you are interested in more than just release notes, you can learn more about my contributions by visiting [my project page](../projects/CollaborativeStudy) on this website or you can learn more about the project overall at its [GitHub project page](https://collaborativestudy.github.io/).
 
+## February 15, 2017
+---
+
+### New Features and Fixes
+  - **Sort courses on my page**: Courses on a user's homepage now appear in alphanumeric order.
+  - **Profile picture bug fixed**: Profile pictures are being generated from URLs again.
+  - **Edit group bug fixed**: Group members are no longer deleted when modifying group information.
+  - **Tutorial toggle**: The toggle to enable/disable tutorials was moved from the
+
 ## February 1, 2017
 ---
 

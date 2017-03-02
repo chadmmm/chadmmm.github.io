@@ -16,6 +16,21 @@ labels:
 
 The purpose of this essay is to keep track of the release notes for each new version of the CS (Collaborative Study) app that I am currently developing. With each release of the app, I will update this essay with the release notes that detail my contributions to the project. I started this project in my software engineering class (ICS 314) at the University of Hawaii at Manoa in the Fall of 2016 and I'm now continuing development on the app with my group. If you are interested in more than just release notes, you can learn more about my contributions by visiting [my project page](../projects/CollaborativeStudy) on this website or you can learn more about the project overall at its [GitHub project page](https://collaborativestudy.github.io/).
 
+## March 1, 2017
+---
+
+This release period was different from the previous release periods. Instead of working on the CS project, I dedicated my time to working on an example of integrating an interactive calendar with Meteor. This example is meant to be used by Software Engineering I students (ICS 314), at UH Manoa to gain a clearer understanding of how to implement a calendar with Meteor. When I took Software Engineering I, many of my peers found it difficult to integrate a calendar. Having a simplified example to build on is something that I wish I had and that is the reason why I decided to work on one.
+
+While working on the calendar example, I was able to find many improvements that could also be made to the calendar used by the CS app. Simplifying the calendar for the example made things easier to understand and I found that there was a lot of extra code that was not needed.
+
+### Challenges
+
+The largest challenge that I had during this release period was time management. These past two weeks for me have been full of assignments from all of my classes. I found it difficult to distribute time across all of my classes and my progress on the Meteor calendar example suffered as a result. I also had problems configuring ESLint to lint my project's JavaScript files, which took up a lot of the available time.
+
+### Plans for next release (March 15, 2017)
+
+I plan to finish up the Meteor Calendar Example during the early parts of this release period. After finishing up the example, I will continue where I left off with the plans that were previously scheduled for the March 1st release.
+
 ## February 15, 2017
 ---
 

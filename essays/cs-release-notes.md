@@ -19,7 +19,7 @@ The purpose of this essay is to keep track of the release notes for each new ver
 ## March 1, 2017
 ---
 
-This release period was different from the previous release periods. Instead of working on the CS project, I dedicated my time to working on an example of integrating an interactive calendar with Meteor. This example is meant to be used by Software Engineering I students (ICS 314), at UH Manoa to gain a clearer understanding of how to implement a calendar with Meteor. When I took Software Engineering I, many of my peers found it difficult to integrate a calendar. Having a simplified example to build on is something that I wish I had and that is the reason why I decided to work on one.
+This release period was different from the previous release periods. Instead of working on the CS project, I dedicated my time to working on an example of integrating an interactive calendar with Meteor. This example is meant to be used by Software Engineering I students (ICS 314), at UH Manoa to gain a clearer understanding of how to implement a calendar with Meteor. When I took Software Engineering I, many of my peers and myself found it difficult to integrate a calendar. Having a simplified example to build on is something that I wish I had and that is the reason why I decided to work on one.
 
 While working on the calendar example, I was able to find many improvements that could also be made to the calendar used by the CS app. Simplifying the calendar for the example made things easier to understand and I found that there was a lot of extra code that was not needed.
 

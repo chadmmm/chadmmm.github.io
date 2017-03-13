@@ -49,12 +49,13 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
+        "C",
+        "HTML/CSS",
         "Java",
         "JavaScript",
-        "Semantic UI",
         "Meteor.js",
-        "HTML/CSS",
-        "MongoDB"
+        "MongoDB",
+        "Semantic UI",
       ]
     },
     {
@@ -114,13 +115,13 @@
     {
       "organization": "University of Hawaii Photo Lab",
       "website": "http://hawaii.edu/art/",
-      "position": "Junior Photo Lab Assistant",
+      "position": "Photo Lab Assistant",
       "startDate": "2016-08",
       "endDate": "Present",
-      "summary": "Assist photography students working in the lab",
+      "summary": "Assist photography students working in the lab, checkout equipment, and maintain darkroom chemicals.",
       "highlights": [
-        "Checkout darkroom equipment to students",
-        "Setup and break down darkroom labs"
+        "Junior Photo Lab Assistant, August 2016-December 2016",
+        "Senior Photo Lab Assistant, January 2017-Present"
       ]
     },
     {

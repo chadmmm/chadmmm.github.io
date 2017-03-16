@@ -3,7 +3,7 @@ published: true
 layout: essay
 type: essay
 title: CS Release Notes
-date: 2017-02-01
+date: 2017-03-15
 labels:
   - Software Engineering
   - GitHub
@@ -15,6 +15,24 @@ labels:
 ---
 
 The purpose of this essay is to keep track of the release notes for each new version of the CS (Collaborative Study) app that I am currently developing. With each release of the app, I will update this essay with the release notes that detail my contributions to the project. I started this project in my software engineering class (ICS 314) at the University of Hawaii at Manoa in the Fall of 2016 and I'm now continuing development on the app with my group. If you are interested in more than just release notes, you can learn more about my contributions by visiting [my project page](../projects/CollaborativeStudy) on this website or you can learn more about the project overall at its [GitHub project page](https://collaborativestudy.github.io/).
+
+## March 15, 2017
+---
+
+I spent a large amount of my time working on improving the calendar and scheduling features based on what I learned from working on `meteor-example-fullcalendar`. The modal for creating a study session previously used a raised segment container, which did not make a lot of sense. I modified the modal content to be in a Semantic UI container and I added CSS to create padding on the edges to the global stylesheet. All of the CSS for the calendar was also moved from the HTML file into the global stylesheet to make it easier to change color schemes, layouts, etc. The modal id was also changed from `#calendar` to `#create-study-session-modal` to prevent it from being confused with the actual calendar. The template that contained the content for the modal was also renamed from `Create_Study_Session_Page` to `Create_Study_Session_Modal`. There were also a few problems that were fixed with the form validation related to creating study sessions where not all of the fields were correctly validated. A new feature to the calendar is the ability to reschedule events by dragging and dropping them to different days.
+
+Searching for sessions just got easier with the new sort feature that allows sessions to be sorted by their date so you can see what study sessions are coming up soon.
+
+Reviews are also working now, which means that almost all of the basic functionality required to use the CS app is complete. The only feature that is left to be completed is the `User_Profile_Detail_Page`, which serves as a public profile that is visible to other users of the site.
+
+### Challenges
+
+Like in the last release, time management has been an issue for me. I probably could have accomplished more during this release period, but I wanted to focus on doing a thorough job of cleaning up the calendar. Part of the reason that the code for the calendar begin so messy was because it was rushed and I didn't question myself enough about whether each line was truly needed for the sake of having a functional calendar and study session scheduling system.
+
+### Plans for next release (April 1)
+
+Just because most of the required features have been implemented, that does not mean the end of development for the CS app. There's still a lot of other new features planned to improve the usability of the app. It's hard to know what features should be implemented to make our app easier to use because as developers, we have an idea in our mind of how the app should be used, but that does not necessarily match with how other people may be inclined to use the app. Because of this, our team has decided to conduct a usability test to get feedback. Most of the planning for the usability test has already been completed, but some bugs have already been found. This next release period will be dedicated to fixing any bugs that would prevent us from conducting the usability test and actually conducting the test.
+
 
 ## March 1, 2017
 ---

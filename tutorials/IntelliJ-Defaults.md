@@ -1,9 +1,9 @@
 ---
-layout: essay
-type: essay
+layout: tutorial
+type: tutorial
 title: IntelliJ Defaults
 date: 2016-10-18
-published: false
+published: true
 labels:
 ---
 
@@ -14,7 +14,7 @@ Here's a way to reassign default settings for IntelliJ so it will work with our 
 <h2>Tutorial</h2>
 
 <h3>1. Navigate to the Default Settings</h3>
-Start up IntelliJ. At the bottom of the startup window, go to `Configure > Project Defaults > Settings`. If you're on Windows, there should be an option under `File>Other Settings>Default` Settings. 
+Start up IntelliJ. At the bottom of the startup window, go to `Configure > Project Defaults > Settings`. If you're on Windows, there should be an option under `File>Other Settings>Default` Settings.
 
 <a target="_blank" href="../images/Tutorials/IntelliJ-Defaults/config1.png"><img class="ui huge rounded image" src="../images/Tutorials/IntelliJ-Defaults/config1.png"></a>
 
@@ -25,7 +25,7 @@ Go to `Editor > Code Style > JavaScript`. Import the <a href="http://courses.ics
 
 <a target="_blank" href="../images/Tutorials/IntelliJ-Defaults/config2.png"><img class="ui huge rounded image" src="../images/Tutorials/IntelliJ-Defaults/config2.png"></a>
 
-Then make sure that it's the selected scheme. 
+Then make sure that it's the selected scheme.
 
 <a target="_blank" href="../images/Tutorials/IntelliJ-Defaults/config3.png"><img class="ui huge rounded image" src="../images/Tutorials/IntelliJ-Defaults/config3.png"></a>
 
@@ -34,7 +34,7 @@ Then make sure that it's the selected scheme.
 
 Go to `Languages & Frameworks > JavaScript > Code Quality Tools > ESLint`.
 
-Select the files for the correct ESLint Package. I chose to keep a copy of the `.eslintrc` configuration file in my folder for this class so I don't need to add a new file each time. 
+Select the files for the correct ESLint Package. I chose to keep a copy of the `.eslintrc` configuration file in my folder for this class so I don't need to add a new file each time.
 
 <a target="_blank" href="../images/Tutorials/IntelliJ-Defaults/config4.png"><img class="ui huge rounded image" src="../images/Tutorials/IntelliJ-Defaults/config4.png"></a>
 

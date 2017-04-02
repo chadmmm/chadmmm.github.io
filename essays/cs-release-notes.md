@@ -19,7 +19,7 @@ The purpose of this essay is to keep track of the release notes for each new ver
 ## April 1, 2017
 ---
 
-My group is planning on conducting our usability test during the next release period, so I worked on eliminating any bugs that we could find in the app. Previously, the `user-profile-detail-page` was only displaying fake information no matter what user's profile was being viewed. I fixed this by having the page pull relevant information from the `Users` and the `Reviews` collections.
+My group plans to conduct our usability test during the next release period, so I worked on eliminating any bugs I could find in the app. Previously, the `user-profile-detail-page` was displaying fake information no matter what user's profile was being viewed. I fixed this by having the page pull relevant information from the `Users` and the `Reviews` collections.
 
 I also worked on figuring out a hosting solution to make the usability testing easier. By having our app hosted, it will prevent any bugs that are platform specific that exist on the server side. I currently have the app hosted on an extra computer that I have, but I am still trying to figure out the best configurations to ensure decent performance and security.
 
@@ -27,13 +27,13 @@ Group posts are now sorted with the newest posts listed on the top.
 
 ### Challenges
 
-Most of the challenges that I have encountered so far while working on this project have not been directly me having difficulties in understanding how to apply what I've learned. Instead, the source of most of my challenges has been myself. In the past few weeks, I have been struggling with time management as my other classes have also been demanding a lot of my time. This past week was spring break for me and I feel like I was able to get more work done, but I still feel like I could have done more.
+Most of the challenges that I have encountered so far while working on this project have not been directly related to me having difficulties in understanding how to apply what I've learned. Instead, the source of most of my challenges has been myself. In the past few weeks, I've been struggling with time management as my other classes have also been demanding a lot of my time. This past week was spring break for me and I feel like I was able to get more work done, but I still feel like I could have done more.
 
 I feel like it's the right thing to take a short break from coding to conduct the usability test so I can get outside opinions on the app, and hopefully, it will help me to become inspired and more motivated.
 
 ### Plans for the next release (April 15, 2017)
 
-The first part of the release period will be focused on conducting our usability test. Ideally, we will be able to conduct multiple usability tests with time to fix issues that we find between the tests. Depending on how well the usability tests go, I will have more or less time to work on fixing the issues.
+The first part of the release period will be focused on conducting the usability test. Ideally, we will be able to conduct multiple usability tests with time to fix issues that we find between the tests. Depending on how well the usability tests go, I will have more or less time to work on fixing the issues.
 
 ## March 15, 2017
 ---

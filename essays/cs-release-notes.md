@@ -3,7 +3,7 @@ published: true
 layout: essay
 type: essay
 title: CS Release Notes
-date: 2017-03-15
+date: 2017-04-01
 labels:
   - Software Engineering
   - GitHub
@@ -15,6 +15,25 @@ labels:
 ---
 
 The purpose of this essay is to keep track of the release notes for each new version of the CS (Collaborative Study) app that I am currently developing. With each release of the app, I will update this essay with the release notes that detail my contributions to the project. I started this project in my software engineering class (ICS 314) at the University of Hawaii at Manoa in the Fall of 2016 and I'm now continuing development on the app with my group. If you are interested in more than just release notes, you can learn more about my contributions by visiting [my project page](../projects/CollaborativeStudy) on this website or you can learn more about the project overall at its [GitHub project page](https://collaborativestudy.github.io/).
+
+## April 1, 2017
+---
+
+My group is planning on conducting our usability test during the next release period, so I worked on eliminating any bugs that we could find in the app. Previously, the `user-profile-detail-page` was only displaying fake information no matter what user's profile was being viewed. I fixed this by having the page pull relevant information from the `Users` and the `Reviews` collections.
+
+I also worked on figuring out a hosting solution to make the usability testing easier. By having our app hosted, it will prevent any bugs that are platform specific that exist on the server side. I currently have the app hosted on an extra computer that I have, but I am still trying to figure out the best configurations to ensure decent performance and security.
+
+Group posts are now sorted with the newest posts listed on the top.
+
+### Challenges
+
+Most of the challenges that I have encountered so far while working on this project have not been directly me having difficulties in understanding how to apply what I've learned. Instead, the source of most of my challenges has been myself. In the past few weeks, I have been struggling with time management as my other classes have also been demanding a lot of my time. This past week was spring break for me and I feel like I was able to get more work done, but I still feel like I could have done more.
+
+I feel like it's the right thing to take a short break from coding to conduct the usability test so I can get outside opinions on the app, and hopefully, it will help me to become inspired and more motivated.
+
+### Plans for the next release (April 15, 2017)
+
+The first part of the release period will be focused on conducting our usability test. Ideally, we will be able to conduct multiple usability tests with time to fix issues that we find between the tests. Depending on how well the usability tests go, I will have more or less time to work on fixing the issues.
 
 ## March 15, 2017
 ---
@@ -29,7 +48,7 @@ Reviews are also working now, which means that almost all of the basic functiona
 
 Like in the last release, time management has been an issue for me. I probably could have accomplished more during this release period, but I wanted to focus on doing a thorough job of cleaning up the calendar. Part of the reason that the code for the calendar begin so messy was because it was rushed and I didn't question myself enough about whether each line was truly needed for the sake of having a functional calendar and study session scheduling system.
 
-### Plans for next release (April 1)
+### Plans for next release (April 1, 2017)
 
 Just because most of the required features have been implemented, that does not mean the end of development for the CS app. There's still a lot of other new features planned to improve the usability of the app. It's hard to know what features should be implemented to make our app easier to use because as developers, we have an idea in our mind of how the app should be used, but that does not necessarily match with how other people may be inclined to use the app. Because of this, our team has decided to conduct a usability test to get feedback. Most of the planning for the usability test has already been completed, but some bugs have already been found. This next release period will be dedicated to fixing any bugs that would prevent us from conducting the usability test and actually conducting the test.
 

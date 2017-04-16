@@ -3,7 +3,7 @@ published: true
 layout: essay
 type: essay
 title: CS Release Notes
-date: 2017-04-01
+date: 2017-04-15
 labels:
   - Software Engineering
   - GitHub
@@ -15,6 +15,20 @@ labels:
 ---
 
 The purpose of this essay is to keep track of the release notes for each new version of the CS (Collaborative Study) app that I am currently developing. With each release of the app, I will update this essay with the release notes that detail my contributions to the project. I started this project in my software engineering class (ICS 314) at the University of Hawaii at Manoa in the Fall of 2016 and I'm now continuing development on the app with my group. If you are interested in more than just release notes, you can learn more about my contributions by visiting [my project page](../projects/CollaborativeStudy) on this website or you can learn more about the project overall at its [GitHub project page](https://collaborativestudy.github.io/).
+
+## April 15, 2017
+---
+
+This past week, my group conducted our usability test. As expected, the usability test revealed issues with the app that we were not aware of ourselves. A few issues were related to bugs, but most of the issues were related to user interface. When working on features, we implemented them in a way that made sense to us and hoped that it would also make sense for other people. Many of the user interface issues highlighted by the usability test were brought up by more than one of our test subjects.
+
+### Challenges
+
+Something that I have realized is that challenges related to implementing functionality are much more clear cut than challenges related to user interface and usability. Now that I have the results of the usability test, I will need to figure out how to make the app more user friendly. This will probably involve consulting with people that are not working on the project for their opinions.
+
+### Plans for the next release (May 1, 2017)
+
+For the next release, the goal is to have a usable app with minimal bugs. I plan to work on fixing any of the remaining bugs that I can find along with any of the new issues that were found in the usability test. I also plan to update the project documentation.
+
 
 ## April 1, 2017
 ---

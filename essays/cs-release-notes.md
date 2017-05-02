@@ -3,7 +3,7 @@ published: true
 layout: essay
 type: essay
 title: CS Release Notes
-date: 2017-04-15
+date: 2017-05-01
 labels:
   - Software Engineering
   - GitHub
@@ -15,6 +15,11 @@ labels:
 ---
 
 The purpose of this essay is to keep track of the release notes for each new version of the CS (Collaborative Study) app that I am currently developing. With each release of the app, I will update this essay with the release notes that detail my contributions to the project. I started this project in my software engineering class (ICS 314) at the University of Hawaii at Manoa in the Fall of 2016 and I'm now continuing development on the app with my group. If you are interested in more than just release notes, you can learn more about my contributions by visiting [my project page](../projects/CollaborativeStudy) on this website or you can learn more about the project overall at its [GitHub project page](https://collaborativestudy.github.io/).
+
+## May 1, 2017
+---
+
+As the semester comes to a conclusion, the focus is now shifting to getting the app in a presentable state. That means eliminating any of the major bugs and improving the documentation on the GitHub page. This semester has been quite a learning experience for me. Working on this project was a new experience. There wasn't anyone imposing deadlines and setting goals so I had to work together with my group to create a plan and manage my own time. There were times when I struggled with time management, but I feel like working on this project has helped me to learn to work on a project where I have a lot of freedom to manage my own time. Although there are still a lot more features that can be implemented and bugs that can be squashed, significant progress has been made this semester toward creating a usable application.
 
 ## April 15, 2017
 ---

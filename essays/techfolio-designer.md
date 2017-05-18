@@ -5,7 +5,13 @@ type: essay
 title: TechFolio Designer
 date: 2017-05-17
 labels:
+  - Atom
+  - Electron
+  - Git/GitHub
+  - Jekyll
+  - Markdown
   - Professional Portfolio
+  - TechFolios
 ---
 ## The Problem
 

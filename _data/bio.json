@@ -5,7 +5,7 @@
     "picture": "https://chadmorita.github.io/chadmorita.github.io/images/chad2.jpg",
     "email": "chadmmm@hawaii.edu",
     "phone": "",
-    "website": "https://chadmorita.github.io",
+    "website": "http://chadmorita.com",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
       "address": "",
@@ -63,7 +63,8 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Linux",
+        "Unix",
         "Windows",
         "Git/Github",
         "LaTeX",
@@ -84,12 +85,24 @@
         "Introduction to Computer Science II",
         "Discrete Mathematics for Computer Science I",
         "Discrete Mathematics for Computer Science II",
+        "Program Structure",
         "Software Engineering I",
-        "Algorithms"
+        "Algorithms",
+        "Operating Systems"
       ]
     }
   ],
    "work": [
+     {
+       "company": "Halau I Ka Wekiu/Pupukahi I Ke Alo O Na Pua",
+       "position": "A/V Technician",
+       "website": "",
+       "startDate": "2015-01",
+       "endDate": "Present",
+       "summary": "Responsible for running A/V presentations for performances at the Hawai’i Theatre.",
+       "highlights": [
+       ]
+     },
     {
       "company": "Sodexo Hawaii",
       "position": "Cashier",

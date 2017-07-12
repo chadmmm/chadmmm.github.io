@@ -55,7 +55,7 @@
         "JavaScript",
         "Meteor.js",
         "MongoDB",
-        "Semantic UI",
+        "Semantic UI"
       ]
     },
     {
@@ -116,7 +116,7 @@
         "Operate cash register",
         "Count the end of the shift totals"
       ]
-    },
+    }
   ],
   "references": [
     {
@@ -157,6 +157,6 @@
       "date": "Fall 2015, Spring 2016, Fall 2016",
       "awarder": "UH Manoa College of Natural Sciences",
       "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade, and (2) do not receive grades of W, I, F, or NC for that semester."
-    },
+    }
   ]
 }

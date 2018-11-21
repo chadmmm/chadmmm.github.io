@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Software Engineering",
+      "name": "Operating Systems",
       "keywords": [
       ]
     }
@@ -53,9 +53,12 @@
         "HTML/CSS",
         "Java",
         "JavaScript",
+        "LaTeX",
         "Meteor.js",
         "MongoDB",
-        "Semantic UI"
+        "Python",
+        "Semantic UI",
+        "SQL",
       ]
     },
     {
@@ -67,9 +70,13 @@
         "Unix",
         "Windows",
         "Git/Github",
-        "LaTeX",
         "Eclipse",
-        "IntelliJ"
+        "IntelliJ",
+        "Vi/Vim",
+        "Clonezilla",
+        "Docker",
+        "VirtualBox",
+        "Wireshark",
       ]
     }
   ],
@@ -81,25 +88,55 @@
       "startDate": "2015-08-24",
       "endDate": "Present",
       "gpa": "",
-      "courses": ["Introduction to Computer Science I",
-        "Introduction to Computer Science II",
-        "Discrete Mathematics for Computer Science I",
-        "Discrete Mathematics for Computer Science II",
-        "Program Structure",
-        "Software Engineering I",
-        "Algorithms",
-        "Operating Systems"
+      "courses": [
+        "ICS 111 -Introduction to Computer Science I",
+        "ICS 141 - Discrete Mathematics for Computer Science I",
+        "ICS 211 - Introduction to Computer Science II",
+        "ICS 212 - Program Structure",
+        "ICS 241 - Discrete Mathematics for Computer Science II",
+        "ICS 311 - Algorithms",
+        "ICS 313 - Programming Language Theory (currently enrolled)",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I",
+        "ICS 332 - Operating Systems",
+        "ICS 390 - Computing Ethics for Lab Assistants",
+        "ICS 414 - Software Engineering II",
+        "ICS 426 - Computer System Security (currently enrolled)",
+        "ICS 451 - Data Networks",
+        "ICS 491 - Special Topics (Digital Forensics)",
+        "ICS 499 - Computer Project (Collaborative Study Project)",
+        "ICS 651 - Computer Networks (currently enrolled)",
       ]
     }
   ],
    "work": [
      {
-       "company": "Halau I Ka Wekiu/Pupukahi I Ke Alo O Na Pua",
+       "company": "UH Mānoa Department of Earth Sciences",
+       "position": "Computer Lab Supervisor",
+       "website": "http://www.soest.hawaii.edu/GG/",
+       "startDate": "2017-08",
+       "endDate": "Present",
+       "summary": "Maintain projectors. Perform software updates and installations on lab computers. Light network/hardware troubleshooting duties. Help students and faculty with technical support. Perform updates to department website.",
+       "highlights": [
+       ]
+     },
+     {
+       "company": "Ka Leo O Hawaiʻi",
+       "position": "Distribution Assistant",
+       "website": "http://www.manoanow.org/kaleo/",
+       "startDate": "2017-08",
+       "endDate": "Present",
+       "summary": "Deliver Ka Leo O Hawaiʻi newspapers to approximately 60 distribution points on and around the Mānoa campus. Monitor each Ka Leo O Hawaiʻi delivery site on a regular basis, counting the number of newspapers remaining at each rack. Install, maintain, and repair newspaper circulation boxes. Assists with the needs of the BOP Circulation program.",
+       "highlights": [
+       ]
+     },
+     {
+       "company": "Hālau I Ka Wēkiu/Pūpūkahi I Ke Alo O Nā Pua",
        "position": "A/V Technician",
        "website": "",
        "startDate": "2015-01",
        "endDate": "Present",
-       "summary": "Responsible for running A/V presentations for performances at the Hawai’i Theatre.",
+       "summary": "Responsible for running A/V presentations for performances at the Hawaiʻi Theatre.",
        "highlights": [
        ]
      },
@@ -139,7 +176,7 @@
     },
     {
       "organization": "GenCyber",
-      "website": "https://www.gen-cyber.com/",
+      "website": "https://www.gencyber-hi.org/",
       "position": "Student volunteer",
       "startDate": "2016-05-27",
       "endDate": "2016-06-10",
@@ -149,14 +186,30 @@
         "Supervise students during capture the flag event on the UH Manoa Campus",
         "Design activities to teach cybcersecurity principles"
       ]
+    },
+    {
+      "organization": "UH Mānoa Information & Computer Sciences Department",
+      "website": "http://www.ics.hawaii.edu/",
+      "position": "ICS 211 Assistant Teaching Assistant",
+      "startDate": "2017-08-01",
+      "endDate": "2017-12-01",
+      "summary": "Assist students with course concepts during lab sessions. Hold open lab hours for 3 hours a week to give additional assistance to students. Prepare and teach one week of ICS 211 lab material (object-oriented programming and data structures).",
+      "highlights": [
+      ]
     }
   ],
   "awards": [
     {
       "title": "Manoa Dean's List",
-      "date": "Fall 2015, Spring 2016, Fall 2016",
+      "date": "Fall 2017, Spring 2017, Fall 2016, Spring 2016, Fall 2015",
       "awarder": "UH Manoa College of Natural Sciences",
       "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade, and (2) do not receive grades of W, I, F, or NC for that semester."
+    },
+    {
+      "title": "UH Mānoa Summer Sophomore Merit Scholarship",
+      "date": "Summer 2017",
+      "awarder": "University of Hawaii at Mānoa Outreach College",
+      "summary": "Awarded to up to 200 UH Mānoa sophomore students based on merit."
     }
   ]
 }

@@ -34,7 +34,7 @@
       ]
     },
     {
-      "name": "Computer Security",
+      "name": "Cybersecurity",
       "keywords": [
       ]
     },
@@ -58,7 +58,7 @@
         "MongoDB",
         "Python",
         "Semantic UI",
-        "SQL",
+        "SQL"
       ]
     },
     {
@@ -77,6 +77,8 @@
         "Docker",
         "VirtualBox",
         "Wireshark",
+				"pfSense",
+				"Proxmox"
       ]
     }
   ],
@@ -89,23 +91,26 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "ICS 111 -Introduction to Computer Science I",
+        "ICS 111 - Introduction to Computer Science I",
         "ICS 141 - Discrete Mathematics for Computer Science I",
         "ICS 211 - Introduction to Computer Science II",
         "ICS 212 - Program Structure",
         "ICS 241 - Discrete Mathematics for Computer Science II",
         "ICS 311 - Algorithms",
-        "ICS 313 - Programming Language Theory (currently enrolled)",
+				"ICS 312 - Machine-Level and Systems Programming (currently enrolled)",
+        "ICS 313 - Programming Language Theory",
         "ICS 314 - Software Engineering I",
         "ICS 321 - Database Systems I",
         "ICS 332 - Operating Systems",
         "ICS 390 - Computing Ethics for Lab Assistants",
         "ICS 414 - Software Engineering II",
-        "ICS 426 - Computer System Security (currently enrolled)",
+				"ICS 425 - Computer Security and Ethics (currently enrolled)",
+        "ICS 426 - Computer System Security",
         "ICS 451 - Data Networks",
         "ICS 491 - Special Topics (Digital Forensics)",
         "ICS 499 - Computer Project (Collaborative Study Project)",
-        "ICS 651 - Computer Networks (currently enrolled)",
+        "ICS 651 - Computer Networks",
+				"ICS 623 - Advanced Cryptography (currently enrolled)"
       ]
     }
   ],
@@ -121,12 +126,22 @@
        ]
      },
      {
+       "company": "UH Mānoa Information & Computer Sciences Department",
+       "position": "ICS 141/ICS 211 Learning Assistant",
+       "website": "http://www.ics.hawaii.edu",
+       "startDate": "2019-01",
+       "endDate": "Present",
+       "summary": "Assist students in ICS 141 (Discrete Mathematics for Computer Science I) and ICS 211 (Introduction to Computer Science II) during lab sessions. Answer any questions related to course topics or homework.",
+       "highlights": [
+       ]
+     },
+     {
        "company": "Ka Leo O Hawaiʻi",
        "position": "Distribution Assistant",
        "website": "http://www.manoanow.org/kaleo/",
        "startDate": "2017-08",
        "endDate": "Present",
-       "summary": "Deliver Ka Leo O Hawaiʻi newspapers to approximately 60 distribution points on and around the Mānoa campus. Monitor each Ka Leo O Hawaiʻi delivery site on a regular basis, counting the number of newspapers remaining at each rack. Install, maintain, and repair newspaper circulation boxes. Assists with the needs of the BOP Circulation program.",
+       "summary": "Deliver Ka Leo O Hawaiʻi newspapers to approximately 60 distribution points on and around the Mānoa campus. Monitor each Ka Leo O Hawaiʻi delivery site on a regular basis, counting the number of newspapers remaining at each rack. Install, maintain, and repair newspaper circulation boxes. Train new Distribution Assistants. Assists with the needs of the BOP Circulation program.",
        "highlights": [
        ]
      },

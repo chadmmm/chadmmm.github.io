@@ -84,7 +84,6 @@
   ],
   "education": [
     {
-    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2021)",
       "studyType": "M.S.",
@@ -99,6 +98,7 @@
         "ICS 674 - Evolutionary Computation I"
       ]
     },
+		{
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (Magna Cum Laude)",
       "studyType": "B.S.",

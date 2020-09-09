@@ -5,8 +5,8 @@
     "picture": "https://chadmorita.github.io/chadmorita.github.io/images/chad2.jpg",
     "email": "chadmmm@hawaii.edu",
     "phone": "",
-    "website": "http://chadmorita.com",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
+    "website": "http://www.chadmorita.com",
+    "summary": "I am studying for a M.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "",
       "postalCode": "96782",
@@ -84,11 +84,26 @@
   ],
   "education": [
     {
+    {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2019)",
+      "area": "Computer Science (expected Fall, 2021)",
+      "studyType": "M.S.",
+      "startDate": "2019-08-26",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+        "EE 469 - Wireless Data Networks",
+        "EE 609 - Computer and Network Security",
+				"ICS 622 - Network Science",
+        "ICS 669 - Social Computing",
+        "ICS 674 - Evolutionary Computation I"
+      ]
+    },
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (Magna Cum Laude)",
       "studyType": "B.S.",
       "startDate": "2015-08-24",
-      "endDate": "Present",
+      "endDate": "2019-05-11",
       "gpa": "",
       "courses": [
         "ICS 111 - Introduction to Computer Science I",
@@ -97,20 +112,20 @@
         "ICS 212 - Program Structure",
         "ICS 241 - Discrete Mathematics for Computer Science II",
         "ICS 311 - Algorithms",
-				"ICS 312 - Machine-Level and Systems Programming (currently enrolled)",
+				"ICS 312 - Machine-Level and Systems Programming",
         "ICS 313 - Programming Language Theory",
         "ICS 314 - Software Engineering I",
         "ICS 321 - Database Systems I",
         "ICS 332 - Operating Systems",
         "ICS 390 - Computing Ethics for Lab Assistants",
         "ICS 414 - Software Engineering II",
-				"ICS 425 - Computer Security and Ethics (currently enrolled)",
+				"ICS 425 - Computer Security and Ethics",
         "ICS 426 - Computer System Security",
         "ICS 451 - Data Networks",
         "ICS 491 - Special Topics (Digital Forensics)",
         "ICS 499 - Computer Project (Collaborative Study Project)",
-        "ICS 651 - Computer Networks",
-				"ICS 623 - Advanced Cryptography (currently enrolled)"
+				"ICS 623 - Advanced Cryptography",
+        "ICS 651 - Computer Networks"
       ]
     }
   ],
@@ -118,7 +133,7 @@
      {
        "company": "UH Mānoa Department of Earth Sciences",
        "position": "Computer Lab Supervisor",
-       "website": "http://www.soest.hawaii.edu/GG/",
+       "website": "http://www.soest.hawaii.edu/earthsciences/",
        "startDate": "2017-08",
        "endDate": "Present",
        "summary": "Maintain projectors. Perform software updates and installations on lab computers. Light network/hardware troubleshooting duties. Help students and faculty with technical support. Perform updates to department website.",
@@ -216,7 +231,7 @@
   "awards": [
     {
       "title": "Manoa Dean's List",
-      "date": "Fall 2017, Spring 2017, Fall 2016, Spring 2016, Fall 2015",
+      "date": "Spring 2019, Fall 2017, Spring 2017, Fall 2016, Spring 2016, Fall 2015",
       "awarder": "UH Manoa College of Natural Sciences",
       "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade, and (2) do not receive grades of W, I, F, or NC for that semester."
     },

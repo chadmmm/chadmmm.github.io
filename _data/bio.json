@@ -131,6 +131,18 @@
   ],
    "work": [
      {
+       "company": "UH Manoa Information & Computer Sciences Department",
+       "position": "Teaching Assistant",
+       "website": "https://www.ics.hawaii.edu/",
+       "startDate": "2019-08",
+       "endDate": "Present",
+       "summary": "Coordinate and grade homework assignments for the class. Proctor exams. Hold office hours for 4 hours a week to answer any student questions about the course. Answer student emails. Topics covered in ICS 451 include: network analysis, architecture, circuit switching, packet switching, protocols and standards, local area networks, and ALOHA channels. Topics covered in ICS 332 include: operating system concepts and structure, processes and threads, CPU scheduling, memory management, file systems, inter-process communication, and virtualization.",
+       "highlights": [
+			 		"ICS 332 Operating Systems TA, January 2020-Present",
+					"ICS 451 Data Networks TA, August 2019-December 2019"
+       ]
+     },
+     {
        "company": "UH Mānoa Department of Earth Sciences",
        "position": "Computer Lab Supervisor",
        "website": "http://www.soest.hawaii.edu/earthsciences/",
@@ -141,9 +153,19 @@
        ]
      },
      {
+       "company": "GenCyber Hawaii",
+       "position": "Assistant Instructor",
+       "website": "",
+       "startDate": "2019-06",
+       "endDate": "2019-06",
+       "summary": "Coordinate volunteers at the one week long GenCyber cybersecurity summer camp for middle and high school students. Teach and assist with the teaching of course material.",
+       "highlights": [
+       ]
+     },
+     {
        "company": "UH Mānoa Information & Computer Sciences Department",
        "position": "ICS 141/ICS 211 Learning Assistant",
-       "website": "http://www.ics.hawaii.edu",
+       "website": "https://www.ics.hawaii.edu",
        "startDate": "2019-01",
        "endDate": "Present",
        "summary": "Assist students in ICS 141 (Discrete Mathematics for Computer Science I) and ICS 211 (Introduction to Computer Science II) during lab sessions. Answer any questions related to course topics or homework.",
